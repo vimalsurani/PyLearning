@@ -10,6 +10,7 @@ print("Hello", "World", 456, True, 4.14, sep="-")
 print("Hello", "World", 789, True, 5.14, sep="#")
 print("Hello", "World", 101, True, 6.14, sep="  ")
 print("Hello", "World", 456, True, 4.14, sep=":")
+print("Hello", "World", 456, True, 4.14, sep="=")
 
 print("Hello,My Name is Vimal", "Patel")
 print("Hello,My Name is ", " Vimal Patel", sep=":")

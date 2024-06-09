@@ -1,5 +1,5 @@
 # Dynamically Typed
-age = 35
+age = 85
 print(type(age))
 age = "Thirty five"
 print(type(age))
