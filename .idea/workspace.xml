@@ -4,21 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dcc3cd78-94f6-4dd1-ba43-0eccc2fc1e7c" name="Changes" comment="Data Types">
-      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab024.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab025.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab026.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab027.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab028.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab029.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab030.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab031.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab032.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab033.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab034.py" afterDir="false" />
+    <list default="true" id="dcc3cd78-94f6-4dd1-ba43-0eccc2fc1e7c" name="Changes" comment="Literal and operator">
       <change afterPath="$PROJECT_DIR$/Task/Task001.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Task/Task002.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -296,7 +284,23 @@
       <option name="project" value="LOCAL" />
       <updated>1717964533196</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Literal and operator">
+      <option name="closed" value="true" />
+      <created>1718131706695</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1718131706695</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Literal and operator">
+      <option name="closed" value="true" />
+      <created>1718131998468</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1718131998468</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -309,6 +313,7 @@
     <MESSAGE value="Adding Lab008 &amp; Lab009 File" />
     <MESSAGE value="Variables and Data Types" />
     <MESSAGE value="Data Types" />
-    <option name="LAST_COMMIT_MESSAGE" value="Data Types" />
+    <MESSAGE value="Literal and operator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Literal and operator" />
   </component>
 </project>
