@@ -12,12 +12,7 @@ n = int(input("Enter a number: "))
 # fact = 6     i =4   6*4  = 24
 # fact = 24    i =5   24*5 = 120
 
-if n < 0:
-    print("Invalid")
-elif n == 0:
-    print("Factorial of 0 is 1")
-else:
-    fact = 1
-    for i in range(1, n + 1):
-        fact = fact * i
-    print(f"Factorial of {n} is {fact}")
+fact = 1
+for i in range(1, n + 1):
+    fact = fact * i
+print(f"Factorial of {n} is {fact}")

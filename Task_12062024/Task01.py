@@ -21,3 +21,15 @@ if year % 4 == 0:
     print(f"{year} is Leap Year")
 else:
     print(f"{year} is Not a Leap Year")
+
+
+
+
+
+
+
+
+
+
+
+
