@@ -4,22 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dcc3cd78-94f6-4dd1-ba43-0eccc2fc1e7c" name="Changes" comment="Literal and operator">
-      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab035.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab036.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab037.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab038.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab039.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab040.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab041.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab042.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab043.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab044.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_12062024/Task01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_12062024/Task02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_12062024/Task03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_12062024/Task04.py" afterDir="false" />
+    <list default="true" id="dcc3cd78-94f6-4dd1-ba43-0eccc2fc1e7c" name="Changes" comment="Conditions and Loops">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_12062024/Task01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task_12062024/Task01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_12062024/Task03.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task_12062024/Task03.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,34 +84,13 @@
     "Python.Task02.executor": "Run",
     "Python.Task03.executor": "Run",
     "Python.Task04.executor": "Run",
+    "Python.test.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ignore.virus.scanning.warn.message": "true",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Task04">
-    <configuration name="Lab043" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyLearning3xATB" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_12062024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_12062024/Lab043.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.test">
     <configuration name="Task01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearning3xATB" />
       <option name="ENV_FILES" value="" />
@@ -212,13 +179,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyLearning3xATB" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task_12062024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task_12062024/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.Task01" />
         <item itemvalue="Python.Task04" />
         <item itemvalue="Python.Task03" />
         <item itemvalue="Python.Task02" />
-        <item itemvalue="Python.Task01" />
-        <item itemvalue="Python.Lab043" />
       </list>
     </recent_temporary>
   </component>
@@ -342,7 +331,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718132227909</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Conditions and Loops">
+      <option name="closed" value="true" />
+      <created>1718216309456</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1718216309456</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -356,6 +353,7 @@
     <MESSAGE value="Variables and Data Types" />
     <MESSAGE value="Data Types" />
     <MESSAGE value="Literal and operator" />
-    <option name="LAST_COMMIT_MESSAGE" value="Literal and operator" />
+    <MESSAGE value="Conditions and Loops" />
+    <option name="LAST_COMMIT_MESSAGE" value="Conditions and Loops" />
   </component>
 </project>

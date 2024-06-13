@@ -6,6 +6,12 @@
 
 n = int(input("Enter a number: "))
 
+# fact = 1     i =1   1*1  = 1
+# fact = 1     i =2   1*2  = 2
+# fact = 2     i =3   2*3  = 6
+# fact = 6     i =4   6*4  = 24
+# fact = 24    i =5   24*5 = 120
+
 if n < 0:
     print("Invalid")
 elif n == 0:
