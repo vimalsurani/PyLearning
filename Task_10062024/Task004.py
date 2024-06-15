@@ -1,6 +1,6 @@
 # Arithmetic Operators
 
-x = 12
+x = 15
 y = 5
 
 # +	Addition	x + y
