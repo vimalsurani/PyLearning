@@ -5,20 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dcc3cd78-94f6-4dd1-ba43-0eccc2fc1e7c" name="Changes" comment="Conditions and Loops">
-      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab045.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_14062024/Lab046.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_14062024/Lab047.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_14062024/Lab048.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_14062024/Lab049.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_14062024/Lab050.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_14062024/Lab051.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_14062024/Lab052.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_14062024/Lab053.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_14062024/Lab054.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_14062024/Lab055.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_14062024/Lab056.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_14062024/Lab057.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_10062024/Task003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_10062024/Task004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_10062024/Task005.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EX_05062024/Lab008.py" beforeDir="false" afterPath="$PROJECT_DIR$/EX_05062024/Lab008.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_03062024/Lab002.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_03062024/Lab002.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ex_12062024/Lab044.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_12062024/Lab044.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -109,6 +101,9 @@
     "Python.Lab057.executor": "Run",
     "Python.Task001.executor": "Run",
     "Python.Task002.executor": "Run",
+    "Python.Task003.executor": "Run",
+    "Python.Task004.executor": "Run",
+    "Python.Task005.executor": "Run",
     "Python.Task01.executor": "Run",
     "Python.Task02.executor": "Run",
     "Python.Task03.executor": "Run",
@@ -131,8 +126,8 @@
       <recent name="C:\Users\ViMS\PycharmProjects\PyLearning3xATB\Ex_14062024" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab057">
-    <configuration name="Lab053" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Task005">
+    <configuration name="Lab003" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearning3xATB" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,11 +136,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_14062024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EX_05062024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_14062024/Lab053.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EX_05062024/Lab003.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,7 +149,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab054" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab004" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearning3xATB" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -163,11 +158,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_14062024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EX_05062024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_14062024/Lab054.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EX_05062024/Lab004.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,7 +171,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab055" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task003" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearning3xATB" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -185,11 +180,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_14062024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task_10062024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_14062024/Lab055.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task_10062024/Task003.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,7 +193,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab056" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task004" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearning3xATB" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -207,11 +202,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_14062024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task_10062024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_14062024/Lab056.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task_10062024/Task004.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -220,7 +215,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab057" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task005" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearning3xATB" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -229,11 +224,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_14062024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task_10062024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_14062024/Lab057.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task_10062024/Task005.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -244,11 +239,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab057" />
-        <item itemvalue="Python.Lab056" />
-        <item itemvalue="Python.Lab055" />
-        <item itemvalue="Python.Lab054" />
-        <item itemvalue="Python.Lab053" />
+        <item itemvalue="Python.Task005" />
+        <item itemvalue="Python.Task004" />
+        <item itemvalue="Python.Task003" />
+        <item itemvalue="Python.Lab004" />
+        <item itemvalue="Python.Lab003" />
       </list>
     </recent_temporary>
   </component>
@@ -396,7 +391,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718303095781</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Conditions and Loops">
+      <option name="closed" value="true" />
+      <created>1718472856961</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1718472856961</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
