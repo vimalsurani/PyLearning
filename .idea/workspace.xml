@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dcc3cd78-94f6-4dd1-ba43-0eccc2fc1e7c" name="Changes" comment="Conditions and Loops">
-      <change afterPath="$PROJECT_DIR$/Task_10062024/Task003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_10062024/Task004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_10062024/Task005.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EX_05062024/Lab008.py" beforeDir="false" afterPath="$PROJECT_DIR$/EX_05062024/Lab008.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_03062024/Lab002.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_03062024/Lab002.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_12062024/Lab044.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_12062024/Lab044.py" afterDir="false" />
+    <list default="true" id="dcc3cd78-94f6-4dd1-ba43-0eccc2fc1e7c" name="Changes" comment="Conditions">
+      <change beforePath="$PROJECT_DIR$/Task_10062024/Task003.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task_10062024/Task003.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_10062024/Task004.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task_10062024/Task004.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_10062024/Task005.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task_10062024/Task005.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -399,7 +395,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718472856961</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Conditions">
+      <option name="closed" value="true" />
+      <created>1718478702400</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1718478702400</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -414,6 +418,7 @@
     <MESSAGE value="Data Types" />
     <MESSAGE value="Literal and operator" />
     <MESSAGE value="Conditions and Loops" />
-    <option name="LAST_COMMIT_MESSAGE" value="Conditions and Loops" />
+    <MESSAGE value="Conditions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Conditions" />
   </component>
 </project>
