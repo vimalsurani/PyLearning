@@ -12,15 +12,15 @@ year = int(input("Enter Year:"))
 # Divisible by 4  year % 400 == 0
 
 
-# if (year % 4 == 0 and year % 100 != 0) or (year % 400 == 0):
-#     print("Leap Year")
-# else:
-#     print("Not a Leap Year")
-
-if year % 4 == 0:
-    print(f"{year} is Leap Year")
+if (year % 4 == 0 and year % 100 != 0) or (year % 400 == 0):
+    print("Leap Year")
 else:
-    print(f"{year} is Not a Leap Year")
+    print("Not a Leap Year")
+
+# if year % 4 == 0:
+#     print(f"{year} is Leap Year")
+# else:
+#     print(f"{year} is Not a Leap Year")
 
 
 
