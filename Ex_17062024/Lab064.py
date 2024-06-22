@@ -1,4 +1,5 @@
-def make_pizza(*topings):
+def make_pizza(*topings):     # * - Any arguments
+    # print(topings)          # O/P -> Tuple
     for topin in topings:
         print(topin)
 
