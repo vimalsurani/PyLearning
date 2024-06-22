@@ -13,6 +13,12 @@ n = int(input("Enter a number: "))
 # fact = 24    i =5   24*5 = 120
 
 fact = 1
-for i in range(1, n + 1):
-    fact = fact * i
-print(f"Factorial of {n} is {fact}")
+# for i in range(1, n + 1):
+#     fact = fact * i
+# print(f"Factorial of {n} is {fact}")
+
+while n > 0:
+    fact = fact * n
+    n = n - 1
+
+print(f"Factorial is {fact}")
