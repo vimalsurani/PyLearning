@@ -23,4 +23,4 @@ num2 = float(input("Enter the second number: "))
 # else:
 #     print(f"{num1} is equal to {num2}")
 
-print(f"{num1} {'is greater than' if num1 > num2 else 'is less than' if num1 < num2 else 'is equal to'} {num2}")
+print(f"{num1} {'is greater than' if num1 > num2 else 'is less than' if num1 < num2 else 'is equal to'}{num2}")

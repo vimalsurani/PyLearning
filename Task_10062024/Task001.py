@@ -51,8 +51,7 @@ print(result4)  # Always return 1
 # a ^ b
 
 result = 5 ^ 3  # 5 - 0101 ^ 3 - 0011
-print(result)   # 6 - 0110
-
+print(result)  # 6 - 0110
 
 # Swapping Values without tem variable
 
@@ -63,9 +62,8 @@ b = a ^ b  # 12 ^ 9 = 5 (1100 ^ 1001 = 0101) -> b = 5 , a = 12
 a = a ^ b  # 12 ^ 5 = 9 (1100 ^ 0101 = 1001) -> a = 9 ,b = 5
 print(a, b)
 
+res5 = 5 ** -5
+print(res5)
 
-
-
-
-
-
+t = pow(5, -5)
+print(t)

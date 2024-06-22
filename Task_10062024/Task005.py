@@ -65,7 +65,7 @@ print(x)
 print(x := 3)  # x = 3
 
 
-def sum(a, b):
+def sum1(a, b):
     return a + b
 
 

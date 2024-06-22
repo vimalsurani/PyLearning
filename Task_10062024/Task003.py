@@ -1,7 +1,7 @@
 # Escape Characters
 
 print("How \'Are You")  # Single Quote
-print("How \\Are You")  # Backslash
+print("How \\ Are You")  # Backslash
 print("How \nAre You")  # New Line
 print("How \rAre You")  # Carriage Return
 print("How \tAre You")  # Tab
