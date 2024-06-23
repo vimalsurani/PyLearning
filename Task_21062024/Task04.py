@@ -2,6 +2,7 @@
 
 str_name = "Vimal"
 
+
 def count_vowels_and_consonants():
     vowels_str = "aeiouAEIOU"
     vow_count = 0
