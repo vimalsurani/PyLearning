@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dcc3cd78-94f6-4dd1-ba43-0eccc2fc1e7c" name="Changes" comment="OOPs Concept -Constructor and Encapsulation">
-      <change afterPath="$PROJECT_DIR$/Exercises/Program002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/Program003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/Program004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/Program005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/Program006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/Program007.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="dcc3cd78-94f6-4dd1-ba43-0eccc2fc1e7c" name="Changes" comment="List Exercise">
+      <change afterPath="$PROJECT_DIR$/Task_21062024/Task08.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -212,29 +206,7 @@
       <recent name="C:\Users\ViMS\PycharmProjects\PyLearning3xATB\Ex_14062024" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Task07">
-    <configuration name="Program005" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyLearning3xATB" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercises" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercises/Program005.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Task08">
     <configuration name="Program006" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearning3xATB" />
       <option name="ENV_FILES" value="" />
@@ -323,13 +295,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Task08" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyLearning3xATB" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task_21062024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task_21062024/Task08.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Task08" />
         <item itemvalue="Python.Task07" />
         <item itemvalue="Python.Task06" />
         <item itemvalue="Python.Program007" />
         <item itemvalue="Python.Program006" />
-        <item itemvalue="Python.Program005" />
       </list>
     </recent_temporary>
   </component>
@@ -669,11 +663,18 @@
       <option name="project" value="LOCAL" />
       <updated>1719754373106</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="List Exercise">
+      <option name="closed" value="true" />
+      <created>1719754489620</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1719754489620</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Adding Lab007 File" />
     <MESSAGE value="Adding Lab008 &amp; Lab009 File" />
     <MESSAGE value="Variables and Data Types" />
     <MESSAGE value="Data Types" />
@@ -698,6 +699,7 @@
     <MESSAGE value=" Assignment Operators" />
     <MESSAGE value="String" />
     <MESSAGE value="OOPs Concept -Constructor and Encapsulation" />
-    <option name="LAST_COMMIT_MESSAGE" value="OOPs Concept -Constructor and Encapsulation" />
+    <MESSAGE value="List Exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="List Exercise" />
   </component>
 </project>
