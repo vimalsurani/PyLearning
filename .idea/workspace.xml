@@ -4,28 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dcc3cd78-94f6-4dd1-ba43-0eccc2fc1e7c" name="Changes" comment="OOPs Concept - Class and Objects &amp; Constructor">
-      <change afterPath="$PROJECT_DIR$/Ex_28062024/Lab116.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_28062024/Lab117.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_28062024/Lab118.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_28062024/Lab119.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_28062024/Lab120.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_28062024/Lab121.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_28062024/Lab122.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_28062024/Lab123.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_28062024/Lab124.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_28062024/Lab125.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises/Program001.py" afterDir="false" />
+    <list default="true" id="dcc3cd78-94f6-4dd1-ba43-0eccc2fc1e7c" name="Changes" comment="OOPs Concept -Constructor and Encapsulation">
       <change afterPath="$PROJECT_DIR$/Exercises/Program002.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Exercises/Program003.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Exercises/Program004.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Exercises/Program005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_10062024/Task006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_21062024/Task06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_21062024/Task07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/Program006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercises/Program007.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_10062024/Task003.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task_10062024/Task003.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_10062024/Task005.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task_10062024/Task005.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,13 +164,19 @@
     "Python.Lab123.executor": "Run",
     "Python.Lab124.executor": "Run",
     "Python.Lab125.executor": "Run",
+    "Python.Lab126.executor": "Run",
+    "Python.Lab127.executor": "Run",
+    "Python.Lab128.executor": "Run",
+    "Python.Lab129.executor": "Run",
     "Python.Lab_082.executor": "Run",
     "Python.Lan104.executor": "Run",
     "Python.Program001.executor": "Run",
-    "Python.Program002.executor": "Run",
+    "Python.Program002.executor": "Debug",
     "Python.Program003.executor": "Run",
     "Python.Program004.executor": "Run",
     "Python.Program005.executor": "Run",
+    "Python.Program006.executor": "Run",
+    "Python.Program007.executor": "Run",
     "Python.Task001.executor": "Run",
     "Python.Task002.executor": "Debug",
     "Python.Task003.executor": "Run",
@@ -220,8 +212,8 @@
       <recent name="C:\Users\ViMS\PycharmProjects\PyLearning3xATB\Ex_14062024" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab125">
-    <configuration name="Lab121" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Task07">
+    <configuration name="Program005" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearning3xATB" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -230,11 +222,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_28062024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_28062024/Lab121.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercises/Program005.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -243,7 +235,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab122" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Program006" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearning3xATB" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -252,11 +244,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_28062024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_28062024/Lab122.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercises/Program006.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -265,7 +257,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab123" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Program007" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearning3xATB" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -274,11 +266,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_28062024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_28062024/Lab123.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercises/Program007.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -287,7 +279,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab124" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task06" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearning3xATB" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -296,11 +288,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_28062024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task_21062024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_28062024/Lab124.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task_21062024/Task06.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -309,7 +301,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab125" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task07" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearning3xATB" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -318,11 +310,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_28062024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task_21062024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_28062024/Lab125.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task_21062024/Task07.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -333,11 +325,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab125" />
-        <item itemvalue="Python.Lab124" />
-        <item itemvalue="Python.Lab123" />
-        <item itemvalue="Python.Lab122" />
-        <item itemvalue="Python.Lab121" />
+        <item itemvalue="Python.Task07" />
+        <item itemvalue="Python.Task06" />
+        <item itemvalue="Python.Program007" />
+        <item itemvalue="Python.Program006" />
+        <item itemvalue="Python.Program005" />
       </list>
     </recent_temporary>
   </component>
@@ -629,15 +621,58 @@
       <option name="project" value="LOCAL" />
       <updated>1719669499406</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="OOPs Concept -Constructor and Encapsulation">
+      <option name="closed" value="true" />
+      <created>1719727959593</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1719727959593</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Swap first and last element of the list.">
+      <option name="closed" value="true" />
+      <created>1719746340638</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1719746340638</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Triangle Star Pattern">
+      <option name="closed" value="true" />
+      <created>1719754059352</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1719754059352</updated>
+    </task>
+    <task id="LOCAL-00038" summary=" Assignment Operators">
+      <option name="closed" value="true" />
+      <created>1719754186935</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1719754186935</updated>
+    </task>
+    <task id="LOCAL-00039" summary="String">
+      <option name="closed" value="true" />
+      <created>1719754279022</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1719754279022</updated>
+    </task>
+    <task id="LOCAL-00040" summary="OOPs Concept -Constructor and Encapsulation">
+      <option name="closed" value="true" />
+      <created>1719754373106</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1719754373106</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Adding Lab001 File" />
-    <MESSAGE value="Adding Lab002 File" />
-    <MESSAGE value="Adding Lab003 File" />
-    <MESSAGE value="Adding Lab004 &amp; Lab005 File for print command" />
-    <MESSAGE value="Adding Lab006 File" />
     <MESSAGE value="Adding Lab007 File" />
     <MESSAGE value="Adding Lab008 &amp; Lab009 File" />
     <MESSAGE value="Variables and Data Types" />
@@ -658,6 +693,11 @@
     <MESSAGE value="Count vowels-consonants and Anagrams" />
     <MESSAGE value="Filters and Recursion" />
     <MESSAGE value="OOPs Concept - Class and Objects &amp; Constructor" />
-    <option name="LAST_COMMIT_MESSAGE" value="OOPs Concept - Class and Objects &amp; Constructor" />
+    <MESSAGE value="Swap first and last element of the list." />
+    <MESSAGE value="Triangle Star Pattern" />
+    <MESSAGE value=" Assignment Operators" />
+    <MESSAGE value="String" />
+    <MESSAGE value="OOPs Concept -Constructor and Encapsulation" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOPs Concept -Constructor and Encapsulation" />
   </component>
 </project>

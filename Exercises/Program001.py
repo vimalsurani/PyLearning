@@ -1,7 +1,5 @@
-# Python program to interchange first and last elements in a list
+# Interchange first and last elements in a list
 
-# Input : [12, 35, 9, 56, 24]
-# Output : [24, 35, 9, 56, 12]
 
 my_list = [12, 35, 9, 56, 24]
 
