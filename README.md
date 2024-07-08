@@ -22,21 +22,14 @@ Below are the key topics to learn in Python:
   - Recursion
 
 - **Strings**
-  - String Manipulation
-  - String Methods
   - Formatting Strings
-  - Regular Expressions
 
 - **Data Structures**
   - Lists
-    - List Methods
-    - List Comprehensions
   - Tuples
   - Dictionaries
-    - Dictionary Methods
   - Sets
-    - Set Methods
-
+  
 - **Modules and Packages**
   - Importing Modules
   - Standard Library Modules
