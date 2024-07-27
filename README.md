@@ -88,3 +88,9 @@ Below are the key topics to learn in Python:
     - pytest Ex_22072024/test_Lab174.py --alluredir=allure_result
     - allure serve allure_result
 
+### How to Add Request Module to the Project
+
+  - pip install requests
+  - pytest Ex_24072024/test_Lab175.py --alluredir=allure_result
+  - -s -help you to print the details by print command
+    - pytest Ex_24072024/test_Lab175.py --alluredir=allure_result -s
