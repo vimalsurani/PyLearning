@@ -50,3 +50,41 @@ Below are the key topics to learn in Python:
   - Polymorphism
   - Encapsulation
   - Method Overriding
+
+### How to Work with the PyTest?
+
+ - pip install pytest
+ - File name - test_name.py
+ - Test name - test_name_of_test():
+ - Assert - Actual Result == Expected Result.
+
+### How to run the PyTest?
+
+ - Open cmd -> Go the folder -> pytest
+ - run icon
+
+### PyTest Commands
+
+ - pytest -h
+ - To run all the testcases
+   - pytest
+ - To run specific testcase
+   - pytest Ex_22072024/test_Lab172.py
+ - To run specific testcase with pattern
+   - pytest -k "17"
+ - To run a specific marked Testcase
+   - Add an annotation @pytest.mark.smoke
+   - pytest -m "smoke" Ex_22072024/test_Lab173.py
+
+### How to see the Report of the PyTest Testcases?
+
+  - Download the Node.js
+    - node -v
+  - Install allure-commandline
+    - npm install -g allure-commandline
+  - Verify that allure -> options
+      - allure
+  - Run your Pytest TestCase 
+    - pytest Ex_22072024/test_Lab174.py --alluredir=allure_result
+    - allure serve allure_result
+
