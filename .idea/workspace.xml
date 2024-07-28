@@ -4,22 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dcc3cd78-94f6-4dd1-ba43-0eccc2fc1e7c" name="Changes" comment="Exercises">
-      <change afterPath="$PROJECT_DIR$/Ex_24072024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_24072024/test_Lab175.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_24072024/test_Lab176.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_24072024/test_Lab177.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_24072024/test_Lab178.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/025a1079-3ad1-430e-bc0a-f1d46a48e7fa-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/0953a40a-e014-46ac-831c-5dbaa77e9029-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/2b6e40fb-cfd3-4809-a0da-e39066bd4e1c-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/3d7f1fec-f2db-405b-9911-45cf5799fa67-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/55a41cd0-4804-4798-9fbb-e7c487079602-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/79fe828b-6b61-4980-8b50-0624215ba6ee-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/99420b89-4154-44fa-80fd-ccc55e5aaf78-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/bc6b6be0-851a-4b96-8cea-9604b752944e-result.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="dcc3cd78-94f6-4dd1-ba43-0eccc2fc1e7c" name="Changes" comment="Request Module and API Request">
+      <change afterPath="$PROJECT_DIR$/allure_result/98e8bde3-21cd-45df-8d1b-7e174ac2b8f8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/c87483dc-2914-4b08-a7df-3697fc4c924f-result.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -415,14 +402,6 @@
       <option name="presentableId" value="Default" />
       <updated>1717932652997</updated>
     </task>
-    <task id="LOCAL-00002" summary="Adding Lab002 File">
-      <option name="closed" value="true" />
-      <created>1717934246948</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1717934246948</updated>
-    </task>
     <task id="LOCAL-00003" summary="Adding Lab003 File">
       <option name="closed" value="true" />
       <created>1717947007469</created>
@@ -807,12 +786,19 @@
       <option name="project" value="LOCAL" />
       <updated>1722076506869</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Request Module and API Request">
+      <option name="closed" value="true" />
+      <created>1722090704119</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1722090704120</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Function" />
     <MESSAGE value="added factorial using while" />
     <MESSAGE value="Functions" />
     <MESSAGE value="Operators" />
@@ -837,6 +823,7 @@
     <MESSAGE value="add readme file" />
     <MESSAGE value="pytest" />
     <MESSAGE value="Exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercises" />
+    <MESSAGE value="Request Module and API Request" />
+    <option name="LAST_COMMIT_MESSAGE" value="Request Module and API Request" />
   </component>
 </project>
