@@ -96,3 +96,4 @@ def test_delete():
     print(headers)
 
     response = requests.delete(url=DELETE_URL, headers=headers)
+    assert response.status_code == 201
