@@ -13,5 +13,5 @@ class Test_CRUD(object):
                 print(row[0], row[1])
 
     def test_update_2(self):
-        df = pd.read_csv('C:/Users/ViMS/PycharmProjects/PyLearning/Ex_26072024/userdata.csv')
+        df = pd.read_csv("C:/Users/ViMS/PycharmProjects/PyLearning/Ex_26072024/userdata.csv")
         print(df)
